@@ -1,3 +1,5 @@
+FIRST TIME SET UP or multiple setups lmao
+
 Check Your Chromebook Compatibility
 Enable Linux (Crostini)
 Find linux or linux (beta)
