@@ -19,3 +19,8 @@ This will ensure your Linux installation is up-to-date with the latest security 
 
 then there you go! you are all ready to use linux!
 
+use google help or search up Linux help if you need any more steps
+
+(this is a brief explanation)
+
+if you want detailed explanation use youtube or smth
