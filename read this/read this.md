@@ -15,6 +15,9 @@ Enter the code..-
 
 sudo apt update
 sudo apt upgrade
+
+also do apt list --upgradable - (to update further)
+
 This will ensure your Linux installation is up-to-date with the latest security patches and software updates.
 
 then there you go! you are all ready to use linux!
