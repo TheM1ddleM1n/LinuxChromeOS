@@ -7,10 +7,11 @@ then press next
 enter any username (that is approprite ofc)
 and put disk size at however much ur wanting to (Min is 10GB to run. Max is 38.2GB.) 
 then press install
+installation should take roughly 2-3 mins (depending on how much storage u want it to take fr)
 
 After installation has finished, it should open up the terminal!
 
-Enter the code..-
+Enter the code..
 
 sudo apt update
 sudo apt upgrade
@@ -27,4 +28,4 @@ use google help or search up Linux help if you need any more steps
 
 if you want detailed explanation use youtube or smth
 
-Edit 4: linux is the best
+Edit 5: python is the best coding language!
