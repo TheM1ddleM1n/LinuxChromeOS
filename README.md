@@ -1,4 +1,6 @@
-FIRST TIME SET UP or multiple setups lmao
+**Using Linux on ChromeOS**
+
+This is a guide (if ur new to chromeOS or if ur experienced and need reminding LOL)
 
 - Check Your Chromebook Compatibility (link in description :D)
 - Enable Linux (Crostini) by finding linux or linux (beta)
@@ -7,7 +9,7 @@ FIRST TIME SET UP or multiple setups lmao
 - enter any username (that is approprite ofc)
 - and put disk size at however much ur wanting to (Min is 10GB to run. Max is 38.2GB.) 
 - then press install
-- Installation should take roughly 2-3 mins (depending on how much storage u want it to take fr)
+- Installation should take roughly 2-3 mins (depending on how much storage u want it to take up)
 
 After installation has finished, it should automatically open up the terminal!
 
@@ -28,4 +30,4 @@ use google help or search up Linux help if you need any more steps
 
 if you want detailed explanation use youtube tutorials or smth
 
-Edit 6: python is the easiest coding language!
+Edit: python is the easiest coding language to learn!
