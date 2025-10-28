@@ -1,6 +1,6 @@
 # 🐧 Using Linux on ChromeOS — Quick & Easy Guide
 
-> A beginner-friendly guide to enabling and using Linux (Crostini) on ChromeOS — perfect for coding, development, and tinkering.
+> A beginner-friendly guide to enabling and using Linux (Crostini) on ChromeOS — perfect for coding, development, and tinkering!
 
 ---
 
