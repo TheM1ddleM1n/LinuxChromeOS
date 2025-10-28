@@ -31,8 +31,9 @@
 ---
 
 ## ✅ Step 1: Check Chromebook Compatibility  
-Make sure your Chromebook supports **Linux (Crostini)**.  
-👉 [Check Chromebook Compatibility](#) *(link in description! :D)*  
+
+Make sure that your Chromebook supports **Linux (Crostini)**.  
+👉 [Check Chromebook Compatibility](#) *(check useful resources :D)*  
 
 ---
 
@@ -45,7 +46,7 @@ Make sure your Chromebook supports **Linux (Crostini)**.
 5. Choose a **disk size**  
    - 💾 *Minimum:* 10 GB (required)  
    - 💾 *Recommended:* 20 GB+  
-   - 💾 *Maximum:* ~38 GB (depending on your storage)  
+   - 💾 *Maximum:* ~38 GB (all depending on your storage capacity)  
 6. Click **Install**
 
 ⏱️ *Installation takes about 2–5 minutes depending on your device and chosen disk size.*
@@ -69,7 +70,7 @@ Then, check if any other packages can be updated:
 apt list --upgradable
 ```
 
-✅ This ensures your Linux setup is fully up to date with the latest software and security patches.
+✅ This will ensure your Linux setup is fully up to date with the latest software and security patches.
 
 ---
 
@@ -94,7 +95,7 @@ sudo apt install python3-pip
 sudo apt install nano
 ```
 
-Run `neofetch` after installing to see your Linux info 😄  
+Run `neofetch` after installing to see your Linux info! 😄  
 
 ---
 
@@ -111,7 +112,7 @@ For more help, check out:
 
 ## 🐍 Bonus Tip: Learn Python!  
 
-> **Python** is one of the easiest and most beginner-friendly programming languages to start with — perfect for practicing on ChromeOS Linux!  
+> **Python** is one of the easiest and most beginner-friendly programming languages to start with — perfect for practicing on Linux!  
 
 Try it out:
 ```bash
@@ -127,6 +128,7 @@ Then you can start coding right in the terminal! 🧠💻
 - [Official ChromeOS Linux Support](https://support.google.com/chromebook/answer/9145439)
 - [Debian Commands Reference](https://wiki.debian.org/Apt)
 - [Python.org – Getting Started](https://www.python.org/about/gettingstarted/)
+- [SupportLinux](https://www.chromium.org/chromium-os/chrome-os-systems-supporting-linux/)
 
 ---
 
